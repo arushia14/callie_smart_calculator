@@ -1,4 +1,4 @@
-# Callie, the Smart Calculator.
+# Callie, the Smart(er) Calculator.
 A smart calculator made using Python, with Tkinter used for the front end. 
 
 To try it out, clone the GitHub repository and run the calc.py file on your system. 
